@@ -1,0 +1,51 @@
+h2{
+    color: rgb(189, 189, 50);
+}
+.title {
+    color: aqua;
+    font-size: 70px;
+}
+#el1 {
+    /* */
+}
+.text {
+    background-color: green;
+}
+.imeg_1 {
+    width: 50%;
+    height: 300px;
+}
+.icon {
+    width: 40px;
+    height: 30px;
+}
+.icon_1 {
+    width: 40px;
+    height: 30px;
+}
+.img_auto {
+    width: auto;
+    height: auto;
+}
+.text_size {
+    text-align:left;
+    font-size: 18px;
+    font-style:normal;
+}
+.menu {
+    font-size: large;
+}
+.auto_rent {
+    font-size: large;
+}
+.auto_1 {
+    width: 250px;
+    height: 350px;
+    
+}
+.car_rent {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(23, 124, 40);
+    text-transform:uppercase;
+}
