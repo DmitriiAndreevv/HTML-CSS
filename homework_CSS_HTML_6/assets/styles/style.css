@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: #fff;
+}
+ul {
+    padding: 0;
+}
+.header {
+    background-color: #fff;
+    height: 100px;
+}
+.right_menu {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    list-style:none;
+    text-decoration: none;
+    gap: 40px;
+}
+.menu_item_1 {
+    cursor: pointer;
+    color: #F25822;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+.menu_item {
+    cursor: pointer;
+    color: #000;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+
+.right_buttom {
+    cursor: pointer;
+    border-radius: 30px;
+    background: #F25822;
+    color: #fff;
+    width: 120px;
+    height: 40px;  
+    border: none;  
+}
+.img_1 {
+    margin-left: 120px;
+    margin-right: 346px;
+}
+
+.intro {
+    display: flex;
+    gap: 40px;
+    width: 1146px;
+    margin-top: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: normal;
+ }
+.text_title {
+    padding-top: 50px;
+    color: #000;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 17px;
+}
+.text_about {
+    color: #888;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: normal;
+    opacity: 1.0;
+    margin-bottom: 37px;
+}
+.buttoms_viev {
+    padding-top: 37px;
+    display: flex;
+    color:#FFF;
+    font-size: 37px;
+    gap: 27px;
+}
+.get_into {
+    cursor: pointer;
+    border-radius: 50px;
+    background: #F25822;
+    color: #fff;
+    width: 140px;
+    height: 50px;  
+    border: none;  
+}
+.get_into_1 {
+    cursor: pointer;
+    background-color: #FFF;
+    color: #AAAAAA;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border: none; 
+    text-decoration: none;
+    display: flex;  
+    align-items: center; 
+    gap: 15px;
+}
+.logos {
+    padding-bottom: 97px;
+    display: flex;
+    margin-top: 197px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center; 
+    gap: 48px;
+
+}
+.about_us {
+    padding-top: 35px;
+}
