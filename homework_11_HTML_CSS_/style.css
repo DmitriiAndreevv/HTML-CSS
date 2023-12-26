@@ -447,7 +447,7 @@ span.h2pink {
         margin-bottom: 65px;
     }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 375px) and (max-width: 767px) {
     .container {
         width: 359px;
     }
